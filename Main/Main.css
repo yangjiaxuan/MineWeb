@@ -1,0 +1,85 @@
+
+html,body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height:100%;
+
+    text-align: center;
+}
+
+.bgView{
+
+    position: absolute;
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    height:100%;
+    background-size: 100% 100%;
+}
+
+/* =========== 左边 =========== */
+.leftView{
+
+    text-align: center;
+    width: 35%;
+
+    background-color: yellow;
+}
+.headView{
+
+    /* vw:视窗单位, 宽高共同的标准 */
+    /*width: 20vw;*/
+    width: 150px;
+    height: 225px;
+    margin: 30px 0 0 calc((100% - 150px)/2);
+
+    line-height: 225px;
+    /*background-color: black;*/
+}
+.headImageView{
+
+    width: calc(100%-4vw);
+    height: 185px;
+    margin: 0 2vw;
+    background-image: url("../Resource/header.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /*background-color: white;*/
+}
+.headTitleView{
+
+    text-align: center;
+    width: 100%;
+    height:40px;
+    line-height: 40px;
+    /*background-color: green;*/
+}
+
+.leftTitlesView{
+
+    padding: 0 10px;
+}
+
+.leftTitltTV{
+    padding: 1px 0;
+    background-color: lightgray;
+}
+
+.leftTitltTVCell{
+    background-color: white;
+    border: 1px solid lightgray;
+}
+
+.leftTitltTVCell:hover{
+    background-color: inherit;
+}
+
+
+/* =========== 右边 =========== */
+.rightView{
+    width: 65%;
+    height:100%;
+
+    background-color: red;
+}

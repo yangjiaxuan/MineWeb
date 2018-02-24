@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> 我的 </title>
+    <link rel="stylesheet" href="Main.css">
+    <script src="Main.js">  </script>
+    <!--引入 vue-->
+    <script src="https://cdn.bootcss.com/vue/2.4.2/vue.min.js"></script>
+</head>
+<body>
+    <div class="bgView">
+        <div class="leftView">
+            <div class="headView">
+                <div class="headImageView"></div>
+                <div class="headTitleView">
+                    {{ headTitle}}
+                </div>
+                <script src="Main.js"></script>
+            </div>
+            <div class="leftTitlesView">
+                <dl class="leftTitltTV">
+                    <dt class="leftTitltTVCell" v-for="item in titles">
+                        {{item.title}}
+                    </dt>
+                </dl>
+            </div>
+            <script src="Main.js"></script>
+        </div>
+        <div class="rightView">
+        </div>
+    </div>
+</body>
+</html>
