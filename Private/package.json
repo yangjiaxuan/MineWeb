@@ -2,6 +2,6 @@
   "name": "application-name",
   "version": "0.0.1",
   "appIDs" : [
-    {"id":"1", "time":"172800"}
+    {"id":"2", "time":"172800"}
   ]
 }
