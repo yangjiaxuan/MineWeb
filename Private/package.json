@@ -1,7 +1,7 @@
 {
   "name": "application-name",
   "version": "0.0.1",
-  "appID" : [
+  "appIDs" : [
     {"id":"1", "time":"172800"}
   ]
 }
