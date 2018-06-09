@@ -51,9 +51,6 @@ titles = new Vue({
                     var rightView=document.getElementsByClassName("rightView")[0];
                     rightView.innerHTML=marked(xmlhttp.responseText);
                 }
-                else {
-                    alert(xmlhttp.statusText);
-                }
             }
         }
 }

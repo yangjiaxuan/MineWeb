@@ -24,11 +24,12 @@ html,body{
 
 /* =========== 左边 =========== */
 .leftView{
-
+    margin: 0 5px;
     text-align: center;
     width: var(--leftViewWidth);
 
-    background-color: yellow;
+    background-color: white;
+    border: 1px solid lightgray;
 }
 .headView{
 
@@ -67,12 +68,13 @@ html,body{
 
 .leftTitltTV{
     padding: 1px 0;
-    background-color: lightgray;
+    background-color: white;
 }
 
 .leftTitltTVCell{
     width: var(--leftHeadViewWidth);
-    background-color: white;
+    color: red;
+    background-color: black;
     border: 1px solid lightgray;
 }
 
@@ -83,6 +85,7 @@ html,body{
 
 /* =========== 右边 =========== */
 .rightView{
+    color: red;
     padding: 20px;
     display: block;
     width: calc(100%-150px);
