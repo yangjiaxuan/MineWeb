@@ -2,383 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae976978-f9df-47dc-a9d8-65d8349b514c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/ColorPicker" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/ColorPicker" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/ActiveEscapeHatch.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/ActiveEyedropper.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/Add.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/EscapeHatch.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/Eyedropper.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/HSB.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/NoColor.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/RGB.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/Remove.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/SelectedColorIndicator.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/SelectionIndicator.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/SwatchCheckerboard.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/Current" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Growl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Headers" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/A/Growl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/Current" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Headers" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/NMSSH" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/NMSSH" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/Current" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Headers" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Modules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/PrivateHeaders" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Resources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Sparkle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS/Autoupdate" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/MacOS/fileop" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/AppIcon.icns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/SUStatus.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/SUStatus.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr_CA.lproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt.lproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUAutomaticUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdateAlert.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/SUUpdatePermissionPrompt.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Sparkle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/Current" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/MacOS/iTerm2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/AboutWindow.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Add Mark Touch Bar Icon.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/AdvancedWorkingDirectoryWindow.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Alert.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/AppIcon.icns" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Assets.car" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Autocomplete.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/BackgroundStripes.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/BigArrow.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/BroadcastInput.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/BrokenPipeDivider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/BulkCopyProfilePreferences.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/ChangeProfile.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/CheckMark.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/ChevronDown.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Color Preset Touch Bar Icon.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/CommandHistoryPopup.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Coprocess.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/CopyMode.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/DeadForDarkTheme.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/DirectoriesPopup.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/DisableTips.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Dismiss.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Erase.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/EraseDarkBackground.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/FindCursorCell1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/FindCursorCell2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/FindCursorCell3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/FindCursorCell4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/FindView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/GlobalSearch.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Hamburger.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/IBarCursor.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/IBarCursorXMR.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Info.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/InstantReplay.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Later.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/LogoFrame.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/LogoShadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Loupe.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/MainMenu.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Man Page Touch Bar Icon.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Maximized.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Model.momd/Model.mom" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Model.momd/VersionInfo.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Navigate.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/NewOutput.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/NewOutputForDarkTheme.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Next Mark Touch Bar Icon.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/NextTip.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/NoColor.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/NumberOfSpacesAccessoryView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PTYTextViewTest-golden-nonretina-testCustomUnderline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PTYTextViewTest-golden-nonretina-testUnderline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PTYTextViewTest-golden-testCustomUnderline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PTYTextViewTest-golden-testUnderline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PasteView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PasteboardHistory.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PreferencePanel.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsAdvanced.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsAppearance.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsArrangements.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsGeneral.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsKeyboard.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsMouse.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PrefsProfile.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Previous Mark Touch Bar Icon.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/ProfilesWindow.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PseudoTerminal.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/QuestionMarkSign.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/SearchCursor.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/SplitPanel.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/StatusItem.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/StatusItemAlt.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/SuppressAllOutput.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TabClose_Front.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TabClose_Front_Pressed.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TabClose_Front_Rollover.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TabNewMetal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TabNewMetalPressed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TabNewMetalRollover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TipCalendar.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/TmuxDashboard.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Touch Bar Function Keys.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/UKCrashReporter.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/WarningSign.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Zoomed.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/bell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/broken_image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/closebutton.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/config.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/dead.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/default.metallib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermEditKeyActionWindowController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermHelpMessageViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermHotkeyPreferencesWindowController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermKeyMapping.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermOpenQuicklyWindowController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermPasswordManager.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermPasteSpecialViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermPasteSpecialWindow.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermPrintAccessoryViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermTipCardViewController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermTipWindowController.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTermWindowShortcutAccessoryView.nib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/image_decoder" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/important.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/key.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/new-tab.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/newwin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/overflowImage.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/overflowImagePressed.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/restore-arrangement.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/wrap_to_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/wrap_to_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/AudioToolBox.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/C++ 编译库.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/Git使用.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/JNI.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/help.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/jar包.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/创建cocoapod私有库.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端显示Git所在分支.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/Resources/colors.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/ColorPicker.framework/Versions/A/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/A/Headers/Growl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/A/Headers/GrowlApplicationBridge.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/A/Headers/GrowlDefines.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/A/Resources/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Growl.framework/Versions/A/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSFTP.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSFTPFile.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSH.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHChannel.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHChannelDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHConfig.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHHostConfig.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHSession.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/NMSSHSessionDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/libssh2.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Headers/libssh2_sftp.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/Resources/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/NMSSH.framework/Versions/A/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUAppcast.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUAppcastItem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUErrors.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUExport.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUStandardVersionComparator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUUpdater.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUUpdaterDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUVersionComparisonProtocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/SUVersionDisplayProtocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Headers/Sparkle.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Modules/module.modulemap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/PrivateHeaders/SUUnarchiver.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/PkgInfo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ar.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ca.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/cs.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/da.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/de.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/el.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/en.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/es.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fi.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/fr.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/he.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/is.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/it.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ja.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ko.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/nb.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/nl.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pl.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pt_BR.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/pt_PT.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ro.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/ru.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sk.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sl.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/sv.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/th.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/tr.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/uk.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/zh_CN.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app/Contents/Resources/zh_TW.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/SUModelTranslation.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ar.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ca.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/cs.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/da.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/de.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/el.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/en.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/es.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fi.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/fr.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/he.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/is.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/it.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ja.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ko.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nb.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/nl.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pl.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_BR.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/pt_PT.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ro.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/ru.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sk.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sl.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/sv.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/th.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/tr.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/uk.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_CN.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/zh_TW.lproj/Sparkle.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/PkgInfo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/AddressBook.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/ColorPresets.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/DefaultBookmark.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/DefaultGlobalKeyMap.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/DefaultPointerActions.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/EncodingsWithLowerCase.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Growl Registration Ticket.growlRegDict" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/Licenses.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/MainMenu.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/MigrationMap.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PreferencePanel.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PresetKeyMappings.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/PseudoTerminal.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/SmartSelectionRules.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/UKCrashReporter Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/UKCrashReporter.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/configPanel.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/dsa_pub.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTerm.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/iTerm2.sdef" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/Resources/image_decoder.sb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/终端配置资源/iTerm.app/Contents/_CodeSignature/CodeResources" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyNote/高并发.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Main/Main.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Main.css" afterPath="$PROJECT_DIR$/Main/Main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Main.html" afterPath="$PROJECT_DIR$/Main/Main.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main/Main.js" afterPath="$PROJECT_DIR$/Main/Main.js" />
     </list>
     <ignored path="Mine.iws" />
@@ -402,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Main/Main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
@@ -424,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main/Main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+            <state relative-caret-position="1110">
+              <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -465,8 +90,9 @@
       <list>
         <option value="$PROJECT_DIR$/Private/package.json" />
         <option value="$PROJECT_DIR$/Main/Main.html" />
-        <option value="$PROJECT_DIR$/Main/Main.js" />
         <option value="$PROJECT_DIR$/Main/Main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Main/Main.js" />
       </list>
     </option>
   </component>
@@ -477,8 +103,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="394" />
-    <option name="y" value="35" />
+    <option name="x" value="177" />
+    <option name="y" value="23" />
     <option name="width" value="946" />
     <option name="height" value="690" />
   </component>
@@ -542,6 +168,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MyServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyNote" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -640,18 +280,18 @@
       <updated>1519475283472</updated>
       <workItem from="1519475287018" duration="6862000" />
       <workItem from="1523084244153" duration="943000" />
-      <workItem from="1528508571669" duration="6342000" />
+      <workItem from="1528508571669" duration="15179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14147000" />
+    <option name="totallyTimeSpent" value="22984000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="394" y="35" width="946" height="690" extended-state="0" />
+    <frame x="177" y="23" width="946" height="690" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16173361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21987315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -681,7 +321,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Main/Main.js</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -746,14 +396,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Private/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/Private/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Main/Main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -762,21 +404,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main/Main.js">
+    <entry file="file://$PROJECT_DIR$/Private/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main/Main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        <state relative-caret-position="1110">
+          <caret line="74" column="28" selection-start-line="74" selection-start-column="28" selection-end-line="74" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

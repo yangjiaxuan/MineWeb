@@ -83,8 +83,10 @@ html,body{
 
 /* =========== 右边 =========== */
 .rightView{
+    padding: 20px;
+    display: block;
     width: calc(100%-150px);
     height:100%;
-
-    background-color: red;
+    text-align: left;
+    background-color: white;
 }

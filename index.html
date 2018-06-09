@@ -3,11 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <title> 我的 </title>
-    <link rel="stylesheet" href="Main.css">
-    <script src="Main.js">  </script>
+    <link rel="stylesheet" href="./Main/Main.css">
+    <script src="./Main/Main.js">  </script>
+    <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
     <!--引入 vue-->
     <script src="https://cdn.bootcss.com/vue/2.4.2/vue.min.js"></script>
 
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script>
+        function showContent() {
+
+        }
+    </script>
 </head>
 <body>
     <div class="bgView">
@@ -17,7 +24,6 @@
                 <div class="headTitleView">
                     {{ headTitle}}
                 </div>
-                <script src="Main.js"></script>
             </div>
             <div class="leftTitlesView">
                 <dl class="leftTitltTV">
@@ -25,12 +31,11 @@
                         {{info.title}}
                     </button>
                 </dl>
-
             </div>
         </div>
-        <div class="rightView">
-        </div>
+        <span class="rightView">
+        </span>
     </div>
-    <script src="Main.js"></script>
+    <script src="./Main/Main.js"></script>
 </body>
 </html>
