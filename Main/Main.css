@@ -1,4 +1,8 @@
 
+:root{
+    --leftViewWidth:200px;
+    --leftHeadViewWidth:170px;
+}
 html,body{
     padding: 0;
     margin: 0;
@@ -22,7 +26,7 @@ html,body{
 .leftView{
 
     text-align: center;
-    width: 35%;
+    width: var(--leftViewWidth);
 
     background-color: yellow;
 }
@@ -30,18 +34,18 @@ html,body{
 
     /* vw:视窗单位, 宽高共同的标准 */
     /*width: 20vw;*/
-    width: 150px;
-    height: 225px;
-    margin: 30px 0 0 calc((100% - 150px)/2);
+    width: 100%;
+    height: 260px;
+    margin: 30px 0 0 0;
 
-    line-height: 225px;
+    line-height: 260px;
     /*background-color: black;*/
 }
 .headImageView{
 
-    width: calc(100%-4vw);
-    height: 185px;
-    margin: 0 2vw;
+    width: var(--leftHeadViewWidth);
+    height: calc(var(--leftHeadViewWidth)*1.4);
+    margin: 0 calc((var(--leftViewWidth) - var(--leftHeadViewWidth))/2);
     background-image: url("../Resource/header.png");
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -67,6 +71,7 @@ html,body{
 }
 
 .leftTitltTVCell{
+    width: var(--leftHeadViewWidth);
     background-color: white;
     border: 1px solid lightgray;
 }
@@ -78,7 +83,7 @@ html,body{
 
 /* =========== 右边 =========== */
 .rightView{
-    width: 65%;
+    width: calc(100%-150px);
     height:100%;
 
     background-color: red;
