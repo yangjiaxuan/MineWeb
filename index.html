@@ -11,6 +11,9 @@
     <script src="https://cdn.bootcss.com/vue/2.4.2/vue.min.js"></script>
 
     <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script>
+        loadData();
+    </script>
 </head>
 <body>
     <div class="bgView">
@@ -22,12 +25,13 @@
                 </div>
             </div>
             <div class="leftTitlesView">
-                <dl class="leftTitltTV">
-                    <button class="leftTitltTVCell" v-for="info in infos" v-on:click="titleOnClick(info)">
+                <dl class="leftTitltTV" v-if="isShowInfos">
+                    <button class='leftTitltTVCell' v-for='info in infos' v-on:click='titleOnClick(info)'>
                         {{info.title}}
                     </button>
                 </dl>
             </div>
+
         </div>
         <div class="rightView">
         </div>

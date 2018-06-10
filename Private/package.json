@@ -3,5 +3,9 @@
   "version": "0.0.1",
   "appIDs" : [
     {"id":"2", "time":"172800"}
-  ]
+  ],
+  "dependencies": {
+  "vue": "^2.2.6",
+  "vue-resource":"^1.2.1"
+},
 }
