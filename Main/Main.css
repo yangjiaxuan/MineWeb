@@ -44,7 +44,7 @@ html,body{
 .headImageView{
 
     width: var(--leftHeadViewWidth);
-    height: calc(var(--leftHeadViewWidth)*1.4);
+    height: calc(var(--leftHeadViewWidth)*1.5);
     margin: 0 calc((var(--leftViewWidth) - var(--leftHeadViewWidth))/2);
     background-image: url("../Resource/header.png");
     background-repeat: no-repeat;
